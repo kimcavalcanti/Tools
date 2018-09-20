@@ -1,3 +1,10 @@
+/*
+
+Author: Joaquim Cavalcanti
+Description: Create a nested array from flat array containing: id and parentId 
+
+*/
+
 var arr = [
     {
         "name": "Bar",
